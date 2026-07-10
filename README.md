@@ -173,6 +173,10 @@ Never upload API keys or private credentials to public repositories.
 
 ---
 
+
+# LIVE Demo :
+https://the-multiverse-of-chatbots-vnamdvnkad2qqevs4jqjwq.streamlit.app/
+
 # 📸 Application Preview
 
 <img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/b625bd7e-0693-47fd-8f4e-f69dfd1908cc" />
