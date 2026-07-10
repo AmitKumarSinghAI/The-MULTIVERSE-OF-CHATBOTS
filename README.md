@@ -175,7 +175,10 @@ Never upload API keys or private credentials to public repositories.
 
 # 📸 Application Preview
 
-(Add screenshots of your Streamlit application here)
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/b625bd7e-0693-47fd-8f4e-f69dfd1908cc" />
+<img width="1108" height="610" alt="image" src="https://github.com/user-attachments/assets/ee1c32e7-d08b-4c4b-a260-312397e582aa" />
+
+
 
 ---
 
